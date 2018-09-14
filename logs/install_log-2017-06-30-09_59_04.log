@@ -1,0 +1,103 @@
+2017-06-30 09:59:19,375 - common.py [line:17] - INFO - ++++++++++++登录++++++++++++
+
+2017-06-30 09:59:19,375 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:#username
+2017-06-30 09:59:20,396 - Core_GUI.py [line:42] - INFO - [css selector]开始向元素:#username中输入字符:admin
+2017-06-30 09:59:20,503 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:#password
+2017-06-30 09:59:21,527 - Core_GUI.py [line:42] - INFO - [css selector]开始向元素:#password中输入字符:admin
+2017-06-30 09:59:24,655 - common.py [line:26] - INFO - 当前页面：http://10.94.1.60:7180/cmf/home
+2017-06-30 09:59:24,681 - Corelogger.py [line:60] - INFO - [Run login action success ]登录
+2017-06-30 09:59:24,681 - Corelogger.py [line:43] - INFO - ++++++++++++Kafka install parcel++++++++++++
+
+2017-06-30 09:59:40,318 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:tbody .name>span>span
+2017-06-30 09:59:41,629 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:tbody .version>span>span
+2017-06-30 09:59:43,087 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:tbody>tr:nth-child(13)>.actions button[title*="Distribute"]
+2017-06-30 09:59:44,111 - Core_GUI.py [line:59] - INFO - [css selector]开始点击元素:tbody>tr:nth-child(13)>.actions button[title*="Distribute"]
+2017-06-30 09:59:44,239 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:tbody>tr:nth-child(13)>td:nth-child(3)>div
+2017-06-30 09:59:45,266 - Core_GUI.py [line:88] - INFO - 开始获取元素中的属性
+2017-06-30 09:59:45,290 - Core_GUI.py [line:91] - INFO - 元素属性:class=distributing clickable
+2017-06-30 09:59:48,293 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:tbody>tr:nth-child(13)>td:nth-child(3)>div
+2017-06-30 09:59:49,324 - Core_GUI.py [line:88] - INFO - 开始获取元素中的属性
+2017-06-30 09:59:49,355 - Core_GUI.py [line:91] - INFO - 元素属性:class=distributing clickable
+2017-06-30 09:59:52,358 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:tbody>tr:nth-child(13)>td:nth-child(3)>div
+2017-06-30 09:59:53,385 - Core_GUI.py [line:88] - INFO - 开始获取元素中的属性
+2017-06-30 09:59:53,414 - Core_GUI.py [line:91] - INFO - 元素属性:class=distributing clickable
+2017-06-30 09:59:56,417 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:tbody>tr:nth-child(13)>td:nth-child(3)>div
+2017-06-30 09:59:57,447 - Core_GUI.py [line:88] - INFO - 开始获取元素中的属性
+2017-06-30 09:59:57,478 - Core_GUI.py [line:91] - INFO - 元素属性:class=distributing clickable
+2017-06-30 10:00:00,479 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:tbody>tr:nth-child(13)>td:nth-child(3)>div
+2017-06-30 10:00:01,506 - Core_GUI.py [line:88] - INFO - 开始获取元素中的属性
+2017-06-30 10:00:01,535 - Core_GUI.py [line:91] - INFO - 元素属性:class=distributing clickable
+2017-06-30 10:00:04,538 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:tbody>tr:nth-child(13)>td:nth-child(3)>div
+2017-06-30 10:00:05,787 - Core_GUI.py [line:88] - INFO - 开始获取元素中的属性
+2017-06-30 10:00:05,818 - Core_GUI.py [line:91] - INFO - 元素属性:class=distributing clickable
+2017-06-30 10:00:08,821 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:tbody>tr:nth-child(13)>td:nth-child(3)>div
+2017-06-30 10:00:09,851 - Core_GUI.py [line:88] - INFO - 开始获取元素中的属性
+2017-06-30 10:00:09,884 - Core_GUI.py [line:91] - INFO - 元素属性:class=distributing clickable
+2017-06-30 10:00:12,888 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:tbody>tr:nth-child(13)>td:nth-child(3)>div
+2017-06-30 10:00:13,912 - Core_GUI.py [line:88] - INFO - 开始获取元素中的属性
+2017-06-30 10:00:13,938 - Core_GUI.py [line:91] - INFO - 元素属性:class=distributing clickable
+2017-06-30 10:00:16,942 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:tbody>tr:nth-child(13)>td:nth-child(3)>div
+2017-06-30 10:00:17,965 - Core_GUI.py [line:88] - INFO - 开始获取元素中的属性
+2017-06-30 10:00:17,994 - Core_GUI.py [line:91] - INFO - 元素属性:class=distributed clickable
+2017-06-30 10:00:17,994 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:tbody>tr:nth-child(13)>.actions button[title*="Activate"]
+2017-06-30 10:00:19,014 - Core_GUI.py [line:59] - INFO - [css selector]开始点击元素:tbody>tr:nth-child(13)>.actions button[title*="Activate"]
+2017-06-30 10:00:19,199 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:#parcelRestartInfoDialog button[data-bind$="onClickActivateOnly"]
+2017-06-30 10:00:20,212 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:#parcelRestartInfoDialog button[data-bind$="onClickActivateOnly"]
+2017-06-30 10:00:21,234 - Core_GUI.py [line:59] - INFO - [css selector]开始点击元素:#parcelRestartInfoDialog button[data-bind$="onClickActivateOnly"]
+2017-06-30 10:00:21,321 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:tbody>tr:nth-child(13)>td:nth-child(3)>div
+2017-06-30 10:00:22,350 - Core_GUI.py [line:88] - INFO - 开始获取元素中的属性
+2017-06-30 10:00:22,379 - Core_GUI.py [line:91] - INFO - 元素属性:class=activating clickable
+2017-06-30 10:00:25,382 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:tbody>tr:nth-child(13)>td:nth-child(3)>div
+2017-06-30 10:00:26,406 - Core_GUI.py [line:88] - INFO - 开始获取元素中的属性
+2017-06-30 10:00:26,435 - Core_GUI.py [line:91] - INFO - 元素属性:class=activating clickable
+2017-06-30 10:00:29,438 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:tbody>tr:nth-child(13)>td:nth-child(3)>div
+2017-06-30 10:00:30,465 - Core_GUI.py [line:88] - INFO - 开始获取元素中的属性
+2017-06-30 10:00:30,494 - Core_GUI.py [line:91] - INFO - 元素属性:class=activating clickable
+2017-06-30 10:00:33,498 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:tbody>tr:nth-child(13)>td:nth-child(3)>div
+2017-06-30 10:00:34,526 - Core_GUI.py [line:88] - INFO - 开始获取元素中的属性
+2017-06-30 10:00:34,555 - Core_GUI.py [line:91] - INFO - 元素属性:class=activating clickable
+2017-06-30 10:00:37,558 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:tbody>tr:nth-child(13)>td:nth-child(3)>div
+2017-06-30 10:00:38,588 - Core_GUI.py [line:88] - INFO - 开始获取元素中的属性
+2017-06-30 10:00:38,619 - Core_GUI.py [line:91] - INFO - 元素属性:class=activating clickable
+2017-06-30 10:00:41,620 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:tbody>tr:nth-child(13)>td:nth-child(3)>div
+2017-06-30 10:00:42,646 - Core_GUI.py [line:88] - INFO - 开始获取元素中的属性
+2017-06-30 10:00:42,673 - Core_GUI.py [line:91] - INFO - 元素属性:class=activated clickable
+2017-06-30 10:00:42,675 - Corelogger.py [line:60] - INFO - [Run Kafka_deploy action success ]Kafka install parcel
+2017-06-30 10:00:42,675 - Corelogger.py [line:43] - INFO - ++++++++++++add Kafka service++++++++++++
+
+2017-06-30 10:00:43,591 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:.cluster-title-container>div>div>a
+2017-06-30 10:00:44,841 - Core_GUI.py [line:59] - INFO - [css selector]开始点击元素:.cluster-title-container>div>div>a
+2017-06-30 10:00:44,982 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:a[data-event="Add a Service Clicked"]
+2017-06-30 10:00:46,005 - Core_GUI.py [line:59] - INFO - [css selector]开始点击元素:a[data-event="Add a Service Clicked"]
+2017-06-30 10:00:48,130 - Corelogger.py [line:43] - INFO - $('#serviceType_KAFKA').click()
+2017-06-30 10:00:48,186 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:button[data-bind*="onClickContinue"]
+2017-06-30 10:00:49,210 - Core_GUI.py [line:59] - INFO - [css selector]开始点击元素:button[data-bind*="onClickContinue"]
+2017-06-30 10:00:51,654 - Corelogger.py [line:60] - INFO - [Run add_kafka_service action success ]add kafkaservice
+2017-06-30 10:00:51,654 - Corelogger.py [line:43] - INFO - ++++++++++++Assign role++++++++++++
+
+2017-06-30 10:00:51,655 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:.label-service-kafka+.name
+2017-06-30 10:00:52,749 - Corelogger.py [line:43] - INFO - $('div:nth-child(1)>div>.role-type-btn').click()
+2017-06-30 10:00:52,890 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:tbody i
+2017-06-30 10:00:53,914 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:tbody>tr>td[data-bind$="hostName"]
+2017-06-30 10:00:55,009 - Core_GUI.py [line:88] - INFO - 开始获取元素中的属性
+2017-06-30 10:00:55,032 - Core_GUI.py [line:91] - INFO - 元素属性:class=glyphicon small unchecked
+2017-06-30 10:00:55,033 - Core_GUI.py [line:88] - INFO - 开始获取元素中的属性
+2017-06-30 10:00:55,057 - Core_GUI.py [line:91] - INFO - 元素属性:class=glyphicon small unchecked
+2017-06-30 10:00:55,057 - Core_GUI.py [line:88] - INFO - 开始获取元素中的属性
+2017-06-30 10:00:55,082 - Core_GUI.py [line:91] - INFO - 元素属性:class=glyphicon small unchecked
+2017-06-30 10:00:55,157 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:form #modalDialog .modal-footer>.btn-primary
+2017-06-30 10:00:56,233 - Core_GUI.py [line:59] - INFO - [css selector]开始点击元素:form #modalDialog .modal-footer>.btn-primary
+2017-06-30 10:00:56,387 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:button[data-bind*="onClickContinue"]
+2017-06-30 10:00:57,411 - Core_GUI.py [line:59] - INFO - [css selector]开始点击元素:button[data-bind*="onClickContinue"]
+2017-06-30 10:01:00,489 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:#reviewStep h2
+2017-06-30 10:01:01,509 - Core_GUI.py [line:75] - INFO - [css selector]开始获取元素:#reviewStep h2中的文本
+2017-06-30 10:01:01,533 - Corelogger.py [line:60] - INFO - [Run Assign_role action success ]kafka assign role
+2017-06-30 10:01:01,533 - Corelogger.py [line:43] - INFO - ++++++++++++config service++++++++++++
+
+2017-06-30 10:01:01,533 - Core_GUI.py [line:21] - INFO - [css selector]开始查找元素:#reviewStep .param-spec-property
+2017-06-30 10:01:03,620 - configure.py [line:21] - INFO - mysql -uadmin -paaaaaa --execute 'use cm;update CONFIGS set VALUE=1024 where ATTR="broker_max_heap_size";update CONFIGS_AUD set VALUE=1024 where ATTR="broker_max_heap_size";'
+2017-06-30 10:01:03,669 - configure.py [line:25] - ERROR - ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+
+2017-06-30 10:01:03,670 - configure.py [line:26] - ERROR - Non zero exit code:1 executing: 
+2017-06-30 10:01:03,671 - main.py [line:58] - ERROR - install fail:
+ 

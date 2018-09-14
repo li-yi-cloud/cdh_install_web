@@ -1,0 +1,100 @@
+1498533368481	geckodriver	INFO	Listening on 127.0.0.1:53940
+1498533369678	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498533380760	Marionette	INFO	Listening on port 38048
+1498533380894	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498533462034	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498721697460	geckodriver	INFO	Listening on 127.0.0.1:41316
+1498721698682	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498721699892	Marionette	INFO	Listening on port 44250
+1498721700032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498721781209	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1498721856914	geckodriver	INFO	Listening on 127.0.0.1:49570
+1498721858134	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498721859475	Marionette	INFO	Listening on port 46300
+1498721859610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498721914844	geckodriver	INFO	Listening on 127.0.0.1:41040
+1498721916064	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498721927287	Marionette	INFO	Listening on port 35064
+1498721927468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498721939219	Marionette	INFO	New connections will no longer be accepted
+1498722051771	geckodriver	INFO	Listening on 127.0.0.1:59678
+1498722052980	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498722054221	Marionette	INFO	Listening on port 45987
+1498722054362	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498722178357	geckodriver	INFO	Listening on 127.0.0.1:39139
+1498722179579	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498722190767	Marionette	INFO	Listening on port 36918
+1498722190951	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498722631572	geckodriver	INFO	Listening on 127.0.0.1:34673
+1498722632793	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498722643839	Marionette	INFO	Listening on port 45995
+1498722643977	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498722899834	geckodriver	INFO	Listening on 127.0.0.1:47356
+1498722901053	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498722902414	Marionette	INFO	Listening on port 40308
+1498722902601	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2217:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:488:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype.onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:429:5
+Line: 1465, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2217:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:488:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype.onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:429:5
+Line: 1465, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js, line 499: TypeError: aPool is null
+1498726597872	geckodriver	INFO	Listening on 127.0.0.1:50446
+1498726599085	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498726600643	Marionette	INFO	Listening on port 34038
+1498726600825	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498727451777	geckodriver	INFO	Listening on 127.0.0.1:50718
+1498727452990	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498727454607	Marionette	INFO	Listening on port 40885
+1498727454783	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: http://10.94.1.60:7180/static/release/js/cloudera/cmf/page/MenuStatusSummary.js?v=cebe21f384f5ecb4958f97aee55bb7b41624f258, line 3: TypeError: e.health is undefined
+1498787845324	geckodriver	INFO	Listening on 127.0.0.1:56870
+1498787846543	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498787847804	Marionette	INFO	Listening on port 36225
+1498787847937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498787849564	Marionette	INFO	New connections will no longer be accepted
+1498787944385	geckodriver	INFO	Listening on 127.0.0.1:34339
+1498787945600	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498787956722	Marionette	INFO	Listening on port 43448
+1498787956870	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498788063676	Marionette	INFO	New connections will no longer be accepted
+1498788982148	geckodriver	INFO	Listening on 127.0.0.1:36347
+1498788983344	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498788984947	Marionette	INFO	Listening on port 42456
+1498788985087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498789087472	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1498789139424	Marionette	INFO	New connections will no longer be accepted

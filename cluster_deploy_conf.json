@@ -1,0 +1,79 @@
+{
+"manager_url":"http://10.94.1.60:7180",
+"deploy_data":{
+    "host_name":["node0.test.com","node1.test.com","node2.test.com"],
+    "install_service":["HBase","HDFS","Hive","Impala","Spark","YARN (MR2 Included)","ZooKeeper"],
+    "host_role_default":"no",
+    "host_role":{
+        "HBase":{
+            "Master":["node0.test.com"],
+            "HBase REST Server":[],
+            "HBase Thrift Server":[],
+            "RegionServer":["node0.test.com","node1.test.com","node2.test.com"]
+            },
+        "HDFS":{
+            "NameNode":["node2.test.com"],
+            "SecondaryNameNode":["node0.test.com"],
+            "Balancer":[],
+            "HttpFS":[],
+            "NFS Gateway":[],
+            "DataNode":["node0.test.com","node1.test.com","node2.test.com"]
+            },
+        "Hive":{
+            "Gateway":["node0.test.com","node1.test.com","node2.test.com"],
+            "Hive Metastore Server":[],
+            "WebHCat Server":[],
+            "HiveServer2":["node0.test.com"]
+            },
+        "Impala":{
+            "Impala Catalog Server":[],
+            "Impala StateStore":[],
+            "Impala Daemon":[]
+            },
+        "Cloudera Management Service":{
+            "Service Monitor":[],
+            "Activity Monitor":["node2.test.com"],
+            "Host Monitor":[],
+            "Reports Manager":[],
+            "Event Server":[],
+            "Alert Publisher":[]
+            },
+        "Spark":{
+            "History Server":[],
+            "Gateway":[]
+            },
+        "YARN (MR2 Included)":{
+            "ResourceManager":[],
+            "JobHistory Server":[],
+            "NodeManager":[]
+            },
+        "ZooKeeper":{
+            "Server":["node0.test.com","node1.test.com","node2.test.com"]
+            }
+        },
+    "Database_setup":{
+        "mysql_hostname":"node0.test.com",
+        "Hive":{
+            "Database Name":"cdh_hive",
+            "Username":"hive",
+            "Password":"bigdata"
+            },
+        "Activity Monitor":{
+            "Database Name":"cdh_monitor",
+            "Username":"monitor",
+            "Password":"bigdata"
+            },
+        "Reports Manager":{
+            "Database Name":"cdh_reports",
+            "Username":"reports",
+            "Password":"bigdata"
+            }
+        },
+    "Kafka_data":{
+        "Kafka Broker":["node0.test.com"],
+        "Kafka MirrorMaker":[],
+        "Gateway":[]
+        }
+    
+    }
+}
